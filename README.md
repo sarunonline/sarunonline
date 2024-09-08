@@ -6,7 +6,7 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me at [sarun@iitism.ac.in](mailto:sarun@iitism.ac.in) or [sarunpm@gmail.com](mailto:sarunpm@gmail.com)
 
-🙏 🙏 Thanks for visiting! 🙏 🙏
+🙏 🙏 🙏 Thanks for visiting! 🙏 🙏 🙏
 
 <!---
 sarunonline/sarunonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
